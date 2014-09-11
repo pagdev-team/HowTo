@@ -1,0 +1,4 @@
+HowTo
+=====
+
+How configurare gitHub
